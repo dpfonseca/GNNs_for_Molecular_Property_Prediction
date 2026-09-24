@@ -1,0 +1,2 @@
+# GNNs_for_Molecular_Property_Prediction
+Comparing GNNs for molecular property prediction
